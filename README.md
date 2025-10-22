@@ -3,7 +3,8 @@
 This project explores global job postings to uncover patterns in **categories, countries, seniority, and contract types**.  
 The workflow demonstrates a full analytical pipeline — from **data cleaning in SQL Server (SSMS)** to **analysis and visualization in Excel**.
 
-This project highlights practical data analysis, cleaning, and storytelling skills that mirror real-world business intelligence workflows.
+## DASHBOARD APP LINK
+This project highlights practical data analysis, cleaning, and storytelling skills that mirror real-world business intelligence workflows. below is an app to upload the cleaned dataset to generate the dashboard: [https://899c75e2-39e8-4a1c-ab04-4b0e80519cea-00-2yhvvp9kpczv2.worf.replit.dev/]
 
 ---
 
