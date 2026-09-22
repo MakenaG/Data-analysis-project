@@ -4,7 +4,7 @@ This project explores global job postings to uncover patterns in **categories, c
 The workflow demonstrates a full analytical pipeline — from **data cleaning in SQL Server (SSMS)** to **analysis and visualization in Excel**.
 
 ## DASHBOARD APP LINK
-This project highlights practical data analysis, cleaning, and storytelling skills that mirror real-world business intelligence workflows. below is an app to upload the cleaned dataset to generate the dashboard: [https://899c75e2-39e8-4a1c-ab04-4b0e80519cea-00-2yhvvp9kpczv2.worf.replit.dev/]
+This project highlights practical data analysis, cleaning, and storytelling skills that mirror real-world business intelligence workflows. below is an app to upload the cleaned dataset to generate the dashboard: [https://job-metric-dashboard--makenaglory44.replit.app/?replit_sid=69cff558-c257-4423-9f8f-f85a163903d7]
 
 ---
 
